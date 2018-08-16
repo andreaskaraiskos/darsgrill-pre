@@ -1248,7 +1248,7 @@
               "link": "https://www.just-eat.co.uk/restaurants-dars-grill-hampstead/menu?utm_source=google&utm_medium=organic&utm_campaign=orderaction",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
