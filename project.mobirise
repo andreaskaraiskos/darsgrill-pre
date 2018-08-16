@@ -1,0 +1,1790 @@
+{
+  "settings": {
+    "name": "Dar's Restaurant",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2c2c2c",
+        "#222222",
+        "#444444",
+        "#9c9c9c"
+      ]
+    },
+    "versionFirst": "4.3.2",
+    "uniqCompNum": 120,
+    "versionPublish": "4.8.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "DAR'S RESTAURANTS | Only the finest Pakistani and Indian Cuisine",
+        "meta_descr": "Only the finest Pakistani & Indian Cuisine\nDars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#2c2c2c",
+            "fontSize": "1.4",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c2c2c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#222222"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-2-260x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "DAR'S TANDOOR & GRILL Authentic Indian cuisine in Hampstead  Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.  We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+              "link": "https://www.darsgrill.co.uk",
+              "title": "Only the finest Pakistani & Indian Cuisine"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2l"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/ci6-ot-wyaaklcp-640x427.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Welcome to Dar's -&nbsp;<div>Only the finest Pakistani &amp; Indian Cuisine</div>",
+                "contentAlign": "center",
+                "text": "AUTHENTIC PUNJABI FOOD IN HAMSTEAD &amp; WILLESDEN<b><br></b><br>If you're looking for an original and authentic taste of Punjabi cuisine, then look no further than Dar's Pakistani &amp; Indian Cuisine. We offer a wide range of Pakistani and Indian delicacies, based in London with locations in <a href=\"DARS TANDOOR and GRILL.html#header1-1r\" class=\"text-warning\">Hampstead</a> and <a href=\"DARS WILLESDEN.html#header1-14\" class=\"text-danger\">Willesden</a>. <br><br>Have a look through our menus today or book a table and try our must-have dishes.<br><br>We are open 7 days a week, from 12:00AM - 11:30PM, so call or <a href=\"mailto:Ibidar40@gmail.com\" class=\"text-warning\">email</a> us to book your table.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"DARS TANDOOR and GRILL.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;Visit DAR'S | HAMPSTEAD</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"DARS WILLESDEN.html\" data-toolbar=\"-mbrBtnMove\">Visit DAR'S | WILLESDEN</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-2-1000x667.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "DAR'S TANDOOR &amp; GRILL",
+                "contentAlign": "left",
+                "text": "<b>A TRUE TASTE OF ASIA</b><br><b><br></b>We are a family-run restaurant serving  traditional Indian and Pakistani food. Our recipes and blends of spices are rooted in the traditions and culture of Pakistani and Indian cuisine.<br><br> Our chefs are trained in cooking various recipes and you can rely on us for delicious and memorable food.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"DARS TANDOOR and GRILL.html\" data-toolbar=\"-mbrBtnMove\"> Visit DAR'S | HAMPSTEAD</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"DARS WILLESDEN.html\" data-toolbar=\"-mbrBtnMove\">Visit DAR'S | WILLESDEN</a>",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15380656-1226919810706809-8085749620577078784-n-1-960x720.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Why visit Dar's?",
+                "contentAlign": "left",
+                "text": "We're a family run business<br>We come highly recommended<br>We have years of experience<br>A wide selection from a great menu<br>Reliable events catering services <br>Multiple branches; we're easy to find!",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"DARS WILLESDEN.html#header1-14\" data-toolbar=\"-mbrBtnMove\">Visit DAR'S | WILLESDEN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"DARS WILLESDEN.html\" data-toolbar=\"-mbrBtnMove\">Visit DAR'S | HAMPSTEAD</a>",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#553982"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-26"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREE HOME DELIVERY",
+          "text": "On orders over &nbsp;£15<br>Delivery Times: 2pm - 11pm&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:+44-070-7482-1029\" data-toolbar=\"-mbrBtnMove\">020 7482 1029</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2z"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".btn": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT<div>HAMSTEAD</div>",
+          "text": "We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"tel:+44-070-7482-1029\" data-toolbar=\"-mbrBtnMove\">020 7482 1029</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2n"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".btn": {
+              "font-size": "32px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT<div>WILLESDEN</div>",
+          "text": "We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"tel:+44-020-8459-0000\" data-toolbar=\"-mbrBtnMove\">020 8459 0000</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b"
+        }
+      ]
+    },
+    "DARS TANDOOR and GRILL.html": {
+      "settings": {
+        "title": "DAR'S TANDOOR and GRILL | Authentic Indian cuisine in Hampstead",
+        "meta_descr": "Only the finest Pakistani and Indian Cuisine\nDars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#2c2c2c",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c2c2c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#222222"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-1-260x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.darsgrill.co.uk",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2l"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "DAR'S TANDOOR &amp; GRILL",
+          "text": "<b>Authentic Indian cuisine in Hampstead<br></b><br>Dars Pakistani &amp; Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.<br><br>We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"DARS TANDOOR and GRILL.html#msg-box4-1u\" data-toolbar=\"-mbrBtnMove\">READ FURTHER</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/175550-412325645499567-420990336-o-2-1400x1867.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Our Hampstead Lamb Cutlets",
+          "text": "<p>Dar's Pakistani &amp; Indian Cuisine has a branch in Hampstead. From palak paneer to mango lassi, our extensive menu includes various dishes from Indian and Pakistani cuisine. Our chefs also specialise in lamb and chicken dishes.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" data-toolbar=\"-mbrBtnMove\">SEE MENU</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1u"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/644438-453241041408027-1106508059-n-1-960x641.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#fac51c",
+            "overlayOpacity": "0.5"
+          },
+          "header": "WHAT OUR CUSTOMERS SAY",
+          "items": [
+            {
+              "authorName": "<div><br></div><div>Asad Khan Chodhry</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">MashaAllah what an epic experience and amazing hospitality I must say thanks to all the dar n co for a great experience I had booked 40 heads but we had an extra 10 quests but dars handled it well n never dropped the standards thanks Jzk</p><p class=\"mbr-reviews__p\">Many thanks</p><p class=\"mbr-reviews__p\">Asad Khan Chodhry&nbsp;</p>"
+            },
+            {
+              "authorName": "Insha Syed&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fancied trying somewhere new yesterday so my son and I decided on this place.</p><p class=\"mbr-reviews__p\">We had a selection kebabs both lamb and chicken some Nan and rice.</p><p class=\"mbr-reviews__p\">It was freshly prepared very tasty delivered to our table swiftly and piping hot. Service was courteous and friendly. Decor and cleanliness were just fine.</p><p class=\"mbr-reviews__p\">The prices are very reasonable for this part of the Capital.</p><p class=\"mbr-reviews__p\">All in all we left very satisfied and happy.</p><p class=\"mbr-reviews__p\">We would definitely go back !!</p><p class=\"mbr-reviews__p\">A word of warning parking in the day during office hours is difficult but not impossible.</p>"
+            },
+            {
+              "authorName": "Sabha Sharif&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">One of the best Pakistani restaurants I have ever been to! Shame I don't live close to here. Amazing food, variety of choices on the menu and great service. I've been here twice now and I'm already looking forward to going again!!! Pakistani food at its best</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "Ajaz Rashid",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">My favourite Indian / Pakistani Restaurant in London by a mile. Superb menu to cater for every taste, every dish I have tried has hit the spot and my favourites are the Lahori Fish and Haleem - absolutely divine. The staff always provide a high quality attentive service and the prices are unbelievable value for money. I travel from East London to Dar's, and have never been disappointed.</p>"
+            },
+            {
+              "authorName": "<div><br></div><div>Keith McNicoll&nbsp;</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fabulous friendly restaurant! The dishes are packed with flavour and their is great variety. They will accommodate for individual tastes as much as possible and couldn't be friendlier!and if that's not enough it's great value for money! Don't think twice - just go.</p>"
+            },
+            {
+              "authorName": "Naeem Ahmed",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Truly wonderful Punjabi/Indian food - amongst the very best of London. The grills are second to none and the Karahi dishes will challenge any of East London's finest. All provided in an authentic dhesi family style that takes your taste buds to uptown Lahore or downtown Bombay!! If that's not enough, the value for money is unbeatable. My new favourite food place in London bar none!!</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "<div><br></div><div>Asad Khan Chodhry</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">MashaAllah what an epic experience and amazing hospitality I must say thanks to all the dar n co for a great experience I had booked 40 heads but we had an extra 10 quests but dars handled it well n never dropped the standards thanks Jzk</p><p class=\"mbr-reviews__p\">Many thanks</p><p class=\"mbr-reviews__p\">Asad Khan Chodhry&nbsp;</p>"
+            },
+            {
+              "authorName": "Insha Syed&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fancied trying somewhere new yesterday so my son and I decided on this place.</p><p class=\"mbr-reviews__p\">We had a selection kebabs both lamb and chicken some Nan and rice.</p><p class=\"mbr-reviews__p\">It was freshly prepared very tasty delivered to our table swiftly and piping hot. Service was courteous and friendly. Decor and cleanliness were just fine.</p><p class=\"mbr-reviews__p\">The prices are very reasonable for this part of the Capital.</p><p class=\"mbr-reviews__p\">All in all we left very satisfied and happy.</p><p class=\"mbr-reviews__p\">We would definitely go back !!</p><p class=\"mbr-reviews__p\">A word of warning parking in the day during office hours is difficult but not impossible.</p>"
+            },
+            {
+              "authorName": "Sabha Sharif&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">One of the best Pakistani restaurants I have ever been to! Shame I don't live close to here. Amazing food, variety of choices on the menu and great service. I've been here twice now and I'm already looking forward to going again!!! Pakistani food at its best</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "Ajaz Rashid",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">My favourite Indian / Pakistani Restaurant in London by a mile. Superb menu to cater for every taste, every dish I have tried has hit the spot and my favourites are the Lahori Fish and Haleem - absolutely divine. The staff always provide a high quality attentive service and the prices are unbelievable value for money. I travel from East London to Dar's, and have never been disappointed.</p>"
+            },
+            {
+              "authorName": "<div><br></div><div>Keith McNicoll&nbsp;</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fabulous friendly restaurant! The dishes are packed with flavour and their is great variety. They will accommodate for individual tastes as much as possible and couldn't be friendlier!and if that's not enough it's great value for money! Don't think twice - just go.</p>"
+            },
+            {
+              "authorName": "Naeem Ahmed",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Truly wonderful Punjabi/Indian food - amongst the very best of London. The grills are second to none and the Karahi dishes will challenge any of East London's finest. All provided in an authentic dhesi family style that takes your taste buds to uptown Lahore or downtown Bombay!! If that's not enough, the value for money is unbeatable. My new favourite food place in London bar none!!</p>"
+            }
+          ],
+          "_anchor": "testimonials1-1w",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#fac51c"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STARTERS",
+          "currency1": "£",
+          "price1": "0",
+          "period1": "per person",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title2": "MAINS",
+          "currency2": "£",
+          "price2": "0",
+          "period2": "per person",
+          "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title3": "VEGITARIAN",
+          "currency3": "£",
+          "price3": "0",
+          "period3": "per person",
+          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title4": "DESERTS",
+          "currency4": "£",
+          "price4": "0",
+          "period4": "per person",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-22"
+        },
+        {
+          "_params": {
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-21"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/just-eat-151x151.png",
+              "link": "https://www.just-eat.co.uk/restaurants-dars-grill-hampstead/menu?utm_source=google&utm_medium=organic&utm_campaign=orderaction",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Dar's Hampstead &amp; Just Eat&nbsp;",
+          "text": "<p>Dar's Pakistani &amp; Indian Cuisine has a branch in Hampstead. From palak paneer to mango lassi, our extensive menu includes various dishes from Indian and Pakistani cuisine. Our chefs also specialise in lamb and chicken dishes.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" data-toolbar=\"-mbrBtnMove\">SEE MENU</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-38"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "2 Elm Terrace, Hampstead,\nLondon NW3 2LL",
+              "placeId": "EigyIEVsbSBUZXJyYWNlLCBIYW1wc3RlYWQsIExvbmRvbiBOVzMsIFVLIhoSGAoUChIJQY7OKosadkgRqxzeQeNQl-wQAg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-1-260x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://www.darsgrill.co.uk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>DARS'S WILLESDEN</strong><br>54 High Road,<br>London,&nbsp;NW102PU<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: Ibidar40@gmail.com<br>\nPhone: <a href=\"tel:+44 (0) 20 8459 0000 \" class=\"text-warning\">020 8459 0000&nbsp;</a><br>\nFax: +1 (0) 000 0000 002",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-31",
+          "_styles": {
+            "STRONG": {
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>DAR'S HAMPSTEAD</strong><br>2 Elm Terrace, Hampstead,<br>London NW3 2LL<br><br>\n<strong>CONTACTS</strong><br>Email: Ibidar40@gmail.com<br>Phone: <a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\">020 7482 1029</a><br><a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>RESOURCES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Use</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Service</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Privacy Policy</a><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "andreas@andreaskaraiskos.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2r"
+        }
+      ]
+    },
+    "DARS WILLESDEN.html": {
+      "settings": {
+        "meta_descr": "Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.",
+        "title": "DAR'S WILLLESDEN | Indian and Pakistani Cuisine",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-2-260x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "DAR'S TANDOOR & GRILL Authentic Indian cuisine in Hampstead  Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.  We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+              "link": "https://www.darsgrill.co.uk",
+              "title": "Only the finest Pakistani & Indian Cuisine",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2l"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/res-1-1800x1013.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#553982",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Indian &amp; Pakistani Cuisine in Willesden<br>",
+          "text": "<b>FOR AN AUTHENTIC TASTE OF ASIA, COME TO DAR'S IN WILLESDEN.</b><br><b><br></b> Choose from our endless menu of classic and original dishes, giving you the chance to taste our culture and share a great meal with family and friends. <br><br>We're open on Saturday to Thursday at 12:00AM - 11:30PM, and on Fridays from 02:00PM - Midnight.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"DARS WILLESDEN.html#msg-box4-27\" data-toolbar=\"-mbrBtnMove\">READ FURTHER</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-14"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/21617697-1495473780518076-5525621906727969358-n-960x720.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Culinary delights from&nbsp;<div>our expert chefs</div>",
+          "text": "<p>If you are in the mood for tasty Punjabi food, visit our restaurant in Willesden. Whether you are a vegetarian or you are a meat lover, you are sure to find dishes that will suit your preferences.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" data-toolbar=\"-mbrBtnMove\">SEE MENU</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-27"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/644438-453241041408027-1106508059-n-1-960x641.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#9365b8",
+            "overlayOpacity": "0.5"
+          },
+          "header": "WHAT OUR CUSTOMERS SAY",
+          "items": [
+            {
+              "authorName": "<div><br></div><div>Asad Khan Chodhry</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">MashaAllah what an epic experience and amazing hospitality I must say thanks to all the dar n co for a great experience I had booked 40 heads but we had an extra 10 quests but dars handled it well n never dropped the standards thanks Jzk</p><p class=\"mbr-reviews__p\">Many thanks</p><p class=\"mbr-reviews__p\">Asad Khan Chodhry&nbsp;</p>"
+            },
+            {
+              "authorName": "Insha Syed&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fancied trying somewhere new yesterday so my son and I decided on this place.</p><p class=\"mbr-reviews__p\">We had a selection kebabs both lamb and chicken some Nan and rice.</p><p class=\"mbr-reviews__p\">It was freshly prepared very tasty delivered to our table swiftly and piping hot. Service was courteous and friendly. Decor and cleanliness were just fine.</p><p class=\"mbr-reviews__p\">The prices are very reasonable for this part of the Capital.</p><p class=\"mbr-reviews__p\">All in all we left very satisfied and happy.</p><p class=\"mbr-reviews__p\">We would definitely go back !!</p><p class=\"mbr-reviews__p\">A word of warning parking in the day during office hours is difficult but not impossible.</p>"
+            },
+            {
+              "authorName": "Sabha Sharif&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">One of the best Pakistani restaurants I have ever been to! Shame I don't live close to here. Amazing food, variety of choices on the menu and great service. I've been here twice now and I'm already looking forward to going again!!! Pakistani food at its best</p>"
+            },
+            {
+              "authorName": "Ajaz Rashid",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">My favourite Indian / Pakistani Restaurant in London by a mile. Superb menu to cater for every taste, every dish I have tried has hit the spot and my favourites are the Lahori Fish and Haleem - absolutely divine. The staff always provide a high quality attentive service and the prices are unbelievable value for money. I travel from East London to Dar's, and have never been disappointed.</p>"
+            },
+            {
+              "authorName": "<div><br></div><div>Keith McNicoll&nbsp;</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fabulous friendly restaurant! The dishes are packed with flavour and their is great variety. They will accommodate for individual tastes as much as possible and couldn't be friendlier!and if that's not enough it's great value for money! Don't think twice - just go.</p>"
+            },
+            {
+              "authorName": "Naeem Ahmed",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Truly wonderful Punjabi/Indian food - amongst the very best of London. The grills are second to none and the Karahi dishes will challenge any of East London's finest. All provided in an authentic dhesi family style that takes your taste buds to uptown Lahore or downtown Bombay!! If that's not enough, the value for money is unbeatable. My new favourite food place in London bar none!!</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#fac51c"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "testimonials1-2h",
+          "testimonial": [
+            {
+              "authorName": "<div><br></div><div>Asad Khan Chodhry</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">MashaAllah what an epic experience and amazing hospitality I must say thanks to all the dar n co for a great experience I had booked 40 heads but we had an extra 10 quests but dars handled it well n never dropped the standards thanks Jzk</p><p class=\"mbr-reviews__p\">Many thanks</p><p class=\"mbr-reviews__p\">Asad Khan Chodhry&nbsp;</p>"
+            },
+            {
+              "authorName": "Insha Syed&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fancied trying somewhere new yesterday so my son and I decided on this place.</p><p class=\"mbr-reviews__p\">We had a selection kebabs both lamb and chicken some Nan and rice.</p><p class=\"mbr-reviews__p\">It was freshly prepared very tasty delivered to our table swiftly and piping hot. Service was courteous and friendly. Decor and cleanliness were just fine.</p><p class=\"mbr-reviews__p\">The prices are very reasonable for this part of the Capital.</p><p class=\"mbr-reviews__p\">All in all we left very satisfied and happy.</p><p class=\"mbr-reviews__p\">We would definitely go back !!</p><p class=\"mbr-reviews__p\">A word of warning parking in the day during office hours is difficult but not impossible.</p>"
+            },
+            {
+              "authorName": "Sabha Sharif&nbsp;",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">One of the best Pakistani restaurants I have ever been to! Shame I don't live close to here. Amazing food, variety of choices on the menu and great service. I've been here twice now and I'm already looking forward to going again!!! Pakistani food at its best</p>"
+            },
+            {
+              "authorName": "Ajaz Rashid",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">My favourite Indian / Pakistani Restaurant in London by a mile. Superb menu to cater for every taste, every dish I have tried has hit the spot and my favourites are the Lahori Fish and Haleem - absolutely divine. The staff always provide a high quality attentive service and the prices are unbelievable value for money. I travel from East London to Dar's, and have never been disappointed.</p>"
+            },
+            {
+              "authorName": "<div><br></div><div>Keith McNicoll&nbsp;</div>",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Fabulous friendly restaurant! The dishes are packed with flavour and their is great variety. They will accommodate for individual tastes as much as possible and couldn't be friendlier!and if that's not enough it's great value for money! Don't think twice - just go.</p>"
+            },
+            {
+              "authorName": "Naeem Ahmed",
+              "authorBio": "Customer",
+              "text": "<p class=\"mbr-reviews__p\">Truly wonderful Punjabi/Indian food - amongst the very best of London. The grills are second to none and the Karahi dishes will challenge any of East London's finest. All provided in an authentic dhesi family style that takes your taste buds to uptown Lahore or downtown Bombay!! If that's not enough, the value for money is unbeatable. My new favourite food place in London bar none!!</p>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STARTERS",
+          "currency1": "£",
+          "price1": "0",
+          "period1": "per person",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title2": "MAINS",
+          "currency2": "£",
+          "price2": "0",
+          "period2": "per person",
+          "list2": "<ul><li><b>80 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>20 GB</b> Bandwidth</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title3": "VEGITARIAN",
+          "currency3": "£",
+          "price3": "0",
+          "period3": "per person",
+          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title4": "DESERTS",
+          "currency4": "£",
+          "price4": "0",
+          "period4": "per person",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-3a"
+        },
+        {
+          "_params": {
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2x"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/just-eat-151x151.png",
+              "link": "https://www.just-eat.co.uk/restaurants-dars-grill-hampstead/menu?utm_source=google&utm_medium=organic&utm_campaign=orderaction",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br>Dar's Willesden &amp; Just Eat&nbsp;",
+          "text": "<p>Dar's Pakistani &amp; Indian Cuisine has a branch in Hampstead. From palak paneer to mango lassi, our extensive menu includes various dishes from Indian and Pakistani cuisine. Our chefs also specialise in lamb and chicken dishes.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" data-toolbar=\"-mbrBtnMove\">SEE MENU</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-39"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "54 High Road, Willesden\nLondon, NW10 2PU",
+              "placeId": "ChIJmfRJ6lEQdkgRgptHNK3qZFc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2u"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-1-260x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://www.darsgrill.co.uk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>DARS'S WILLESDEN</strong><br>54 High Road,<br>London,&nbsp;NW102PU<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: Ibidar40@gmail.com<br>\nPhone: <a href=\"tel:+44 (0) 20 8459 0000 \" class=\"text-warning\">020 8459 0000&nbsp;</a><br>\nFax: +1 (0) 000 0000 002",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-31",
+          "_styles": {
+            "STRONG": {
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>DAR'S HAMPSTEAD</strong><br>2 Elm Terrace, Hampstead,<br>London NW3 2LL<br><br>\n<strong>CONTACTS</strong><br>Email: Ibidar40@gmail.com<br>Phone: <a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\">020 7482 1029</a><br><a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>RESOURCES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Use</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Service</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Privacy Policy</a><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "andreas@andreaskaraiskos.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-15"
+        }
+      ]
+    },
+    "ABOUT DARS.html": {
+      "settings": {
+        "meta_descr": "ABOUT DAR'S RESTAURANTS",
+        "title": "ABOUT DAR'S RESTAURANTS",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2d"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#2c2c2c",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c2c2c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#222222"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-2-260x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "DAR'S TANDOOR & GRILL Authentic Indian cuisine in Hampstead  Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.  We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+              "link": "https://www.darsgrill.co.uk",
+              "title": "Only the finest Pakistani & Indian Cuisine",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2l"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10577016-703774769687985-2536074829677303070-n-800x532.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "BROTHERS IN DAR'S FAMILY",
+          "text": "Authentic Indian and Pakistani food<br><br> The team at Dars Pakistani &amp; Indian Cuisine has extensive experience making Pakistani and Indian food. From spicy samosas to succulent lamb, we can prepare a wide range of dishes. We also run a Pakistani and Indian food delivery service in Hampstead and Brent. Contact us for more information. We run two branches – one in Willesden and the other in Hampstead.<br><br>Whether you want to relive your memories of Indian cuisine or you wish to experiment with Pakistani cuisine, you can rely on us for delicious, hearty food. Take a look at our extensive menu below:",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"CONTACT DARS.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2g",
+          "_styles": {
+            "H1": {
+              "color": "#28324e"
+            },
+            "P": {
+              "color": "#2c2c2c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>DAR'S HAMPSTEAD</strong><br>2 Elm Terrace, Hampstead,<br>London NW3 2LL<br><br>\n<strong>CONTACTS</strong><br>Email: Ibidar40@gmail.com<br>Phone: <a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\">020 7482 1029</a><br><a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>RESOURCES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Use</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Service</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Privacy Policy</a><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "andreas@andreaskaraiskos.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2e"
+        }
+      ]
+    },
+    "CONTACT DARS.html": {
+      "settings": {
+        "meta_descr": "CONTACT DARS RESTAURANTS, How to get to Dars restaurants in Hampstead and Willesden brent.",
+        "title": "CONTACT | DAR'S Restaurants HAMPSTEAD and WILLESDEN",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2p"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "54 High Road, London, NW102PU",
+              "placeId": "ChIJmfRJ6lEQdkgRgptHNK3qZFc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-30"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-1-260x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://www.darsgrill.co.uk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>DARS'S WILLESDEN</strong><br>54 High Road,<br>London,&nbsp;NW102PU<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: Ibidar40@gmail.com<br>\nPhone: <a href=\"tel:+44 (0) 20 8459 0000 \" class=\"text-warning\">020 8459 0000&nbsp;</a><br>\nFax: +1 (0) 000 0000 002",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-31",
+          "_styles": {
+            "STRONG": {
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "2 Elm Terrace, Hampstead,\nLondon NW3 2LL",
+              "placeId": "EigyIEVsbSBUZXJyYWNlLCBIYW1wc3RlYWQsIExvbmRvbiBOVzMsIFVLIhoSGAoUChIJQY7OKosadkgRqxzeQeNQl-wQAg",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2w"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#2c2c2c",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c2c2c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#222222"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-2-260x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "DAR'S TANDOOR & GRILL Authentic Indian cuisine in Hampstead  Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.  We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+              "link": "https://www.darsgrill.co.uk",
+              "title": "Only the finest Pakistani & Indian Cuisine",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>DAR'S HAMPSTEAD</strong><br>2 Elm Terrace, Hampstead,<br>London NW3 2LL<br><br>\n<strong>CONTACTS</strong><br>Email: Ibidar40@gmail.com<br>Phone: <a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\">020 7482 1029</a><br><a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>RESOURCES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Use</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Service</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Privacy Policy</a><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "andreas@andreaskaraiskos.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2r"
+        }
+      ]
+    }
+  }
+}
