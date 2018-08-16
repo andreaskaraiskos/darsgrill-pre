@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dar's Restaurant",
-    "currentPage": "DARS WILLESDEN.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 121,
+    "uniqCompNum": 131,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -53,7 +53,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS RESTAURANT.html#header4-3l\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html#map1-30\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -322,7 +322,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS RESTAURANT.html#header4-3l\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html#map1-30\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -859,7 +859,7 @@
       "settings": {
         "meta_descr": "Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.",
         "title": "DAR'S WILLLESDEN | Indian and Pakistani Cuisine",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -895,7 +895,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS RESTAURANT.html#header4-3l\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html#map1-30\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1408,186 +1408,11 @@
         }
       ]
     },
-    "ABOUT DARS.html": {
-      "settings": {
-        "meta_descr": "ABOUT DAR'S RESTAURANTS",
-        "title": "ABOUT DAR'S RESTAURANTS",
-        "order": 1
-      },
-      "components": [
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#444444",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2d"
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#2c2c2c",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "18px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#2c2c2c"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#222222"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-size": "16px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-2-260x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "DAR'S TANDOOR & GRILL Authentic Indian cuisine in Hampstead  Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.  We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
-              "link": "https://www.darsgrill.co.uk",
-              "title": "Only the finest Pakistani & Indian Cuisine",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-2l"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10577016-703774769687985-2536074829677303070-n-800x532.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
-          },
-          "title": "BROTHERS IN DAR'S FAMILY",
-          "text": "Authentic Indian and Pakistani food<br><br> The team at Dars Pakistani &amp; Indian Cuisine has extensive experience making Pakistani and Indian food. From spicy samosas to succulent lamb, we can prepare a wide range of dishes. We also run a Pakistani and Indian food delivery service in Hampstead and Brent. Contact us for more information. We run two branches – one in Willesden and the other in Hampstead.<br><br>Whether you want to relive your memories of Indian cuisine or you wish to experiment with Pakistani cuisine, you can rely on us for delicious, hearty food. Take a look at our extensive menu below:",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"CONTACT DARS.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-2g",
-          "_styles": {
-            "H1": {
-              "color": "#28324e"
-            },
-            "P": {
-              "color": "#2c2c2c"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2c2c2c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
-          "text1": "<strong>DAR'S HAMPSTEAD</strong><br>2 Elm Terrace, Hampstead,<br>London NW3 2LL<br><br>\n<strong>CONTACTS</strong><br>Email: <a href=\"mailto:Ibidar40@gmail.com\">Ibidar40@gmail.com</a><br>Phone: <a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\">020 7482 1029</a><br><a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\"><br></a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>RESOURCES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Use</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Service</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Privacy Policy</a><br></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "andreas@andreaskaraiskos.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-2e"
-        }
-      ]
-    },
     "CONTACT DARS.html": {
       "settings": {
         "meta_descr": "CONTACT DARS RESTAURANTS, How to get to Dars restaurants in Hampstead and Willesden brent.",
         "title": "CONTACT | DAR'S Restaurants HAMPSTEAD and WILLESDEN",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1700,7 +1525,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS.html#header4-2g\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS RESTAURANT.html#header4-3l\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html#map1-30\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1793,6 +1618,228 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-2r"
+        }
+      ]
+    },
+    "ABOUT DARS RESTAURANT.html": {
+      "settings": {
+        "meta_descr": "CONTACT DARS RESTAURANTS, How to get to Dars restaurants in Hampstead and Willesden brent.",
+        "title": "ABOUT DAR'S | RESTAURANTS",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 <a href=\"https://www.andreaskaraiskos.com\" target=\"_blank\">AndreasKaraiskos.com</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3f"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10577016-703774769687985-2536074829677303070-n-800x532.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "title": "BROTHERS IN DAR'S FAMILY",
+          "text": "Authentic Indian and Pakistani food<br><br> The team at Dars Pakistani &amp; Indian Cuisine has extensive experience making Pakistani and Indian food. From spicy samosas to succulent lamb, we can prepare a wide range of dishes. We also run a Pakistani and Indian food delivery service in Hampstead and Brent. Contact us for more information. We run two branches – one in Willesden and the other in Hampstead.<br><br>Whether you want to relive your memories of Indian cuisine or you wish to experiment with Pakistani cuisine, you can rely on us for delicious, hearty food. Take a look at our extensive menu:",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" data-toolbar=\"-mbrBtnMove\">OUR MENU</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#28324e"
+            },
+            "P": {
+              "color": "#2c2c2c"
+            }
+          },
+          "_anchor": "header4-3l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-1-260x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "https://www.darsgrill.co.uk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>DARS'S WILLESDEN</strong><br>54 High Road,<br>London,&nbsp;NW102PU<br><br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: <a href=\"mailto:Ibidar40@gmail.com\">Ibidar40@gmail.com</a><br>\nPhone: <a href=\"tel:+44 (0) 20 8459 0000 \" class=\"text-warning\">020 8459 0000&nbsp;</a><br>\nFax: +1 (0) 000 0000 002",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#9c9c9c"
+            },
+            "P": {
+              "color": "#9c9c9c"
+            }
+          },
+          "_anchor": "contacts1-3h"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#2c2c2c",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Menu</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS TANDOOR and GRILL.html#pricing-table1-22\" aria-expanded=\"false\">HAMPSTEAD MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DARS WILLESDEN.html#pricing-table1-2m\" aria-expanded=\"false\">WILLESDEN MENU</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ABOUT DARS RESTAURANT.html#header4-3l\" aria-expanded=\"false\">About</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CONTACT DARS.html#map1-30\" aria-expanded=\"false\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"DARS TANDOOR and GRILL.html#header1-1r\">Visit HAMPSTEAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"DARS WILLESDEN.html#header1-14\">Visit WILLESDEN</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#2c2c2c"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#222222"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dars-logo-white-2-260x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "DAR'S TANDOOR & GRILL Authentic Indian cuisine in Hampstead  Dars Pakistani & Indian Cuisine, the Punjabi restaurant for Indian and Pakistani takeaway, eat-in or delivery in the Hampstead and Willesden area.  We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
+              "link": "https://www.darsgrill.co.uk",
+              "title": "Only the finest Pakistani & Indian Cuisine",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html#slider-26\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Only the finest Pakistani &amp; Indian Cuisine</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-3j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c2c2c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "text1": "<strong>DAR'S HAMPSTEAD</strong><br>2 Elm Terrace, Hampstead,<br>London NW3 2LL<br><br>\n<strong>CONTACTS</strong><br>Email: <a href=\"mailto:Ibidar40@gmail.com\">Ibidar40@gmail.com</a><br>Phone: <a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\">020 7482 1029</a><br><a href=\"tel:+44 (0) 20 7482 1029\" class=\"text-warning\"><br></a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>RESOURCES</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Use</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Terms of Service</a></li><li><a href=\"https://www.darsgrill.co.uk/\">Privacy Policy</a><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "andreas@andreaskaraiskos.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-3k"
         }
       ]
     }
