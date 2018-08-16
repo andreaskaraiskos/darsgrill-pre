@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dar's Restaurant",
-    "currentPage": "index.html",
+    "currentPage": "DARS WILLESDEN.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -628,7 +628,7 @@
           "currency4": "<span style=\"font-weight: normal;\">from</span> £",
           "price4": "7.50",
           "period4": "<b>Karahi Dishes</b>",
-          "list4": "<ul><li>Traditional karahi dishes<br></li><li><b>Chicken Karahi</b></li></ul><div style=\"text-align: center;\">Succulent chicken marinated in special spices &amp; authentic herbs</div><div style=\"text-align: center;\">Cooked in butter with onions, garlic, ginger based sauce</div>",
+          "list4": "<ul><li>Traditional karahi dishes<br></li><li><b>Chicken Karahi</b></li></ul><div style=\"text-align: center;\">Succulent chicken marinated in special spices &amp; authentic herbs</div><div style=\"text-align: center;\">Cooked in butter with onions, garlic, ginger based sauce</div><div style=\"text-align: center;\"><b>£7.50</b></div>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.just-eat.co.uk/restaurants-dars-grill-hampstead/menu#cat1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "title5": "EXTENDED",
           "currency5": "$",
@@ -1181,7 +1181,7 @@
           "currency4": "<span style=\"font-weight: normal;\">from</span> £",
           "price4": "7.50",
           "period4": "<b>Karahi Dishes</b>",
-          "list4": "<ul><li>Traditional karahi dishes<br></li><li><b>Chicken Karahi</b></li></ul><div style=\"text-align: center;\">Succulent chicken marinated in special spices &amp; authentic herbs</div><div style=\"text-align: center;\">Cooked in butter with onions, garlic, ginger based sauce</div>",
+          "list4": "<ul><li>Traditional karahi dishes<br></li><li><b>Chicken Karahi</b></li></ul><div style=\"text-align: center;\">Succulent chicken marinated in special spices &amp; authentic herbs</div><div style=\"text-align: center;\">Cooked in butter with onions, garlic, ginger based sauce</div><div style=\"text-align: center;\"><b>£7.50</b></div>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.just-eat.co.uk/restaurants-dars-grill-hampstead/menu#cat1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER</a>",
           "title5": "EXTENDED",
           "currency5": "$",
