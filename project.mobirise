@@ -62,7 +62,7 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1.4em",
@@ -331,10 +331,10 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.4em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -904,17 +904,17 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.4em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#2c2c2c"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#222222"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1534,10 +1534,10 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.4em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1756,10 +1756,10 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "18px"
+              "font-size": "14px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1.4em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
