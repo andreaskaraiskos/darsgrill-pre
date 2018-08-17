@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dar's Restaurant",
-    "currentPage": "index.html",
+    "currentPage": "CONTACT DARS.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -230,7 +230,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT<div>HAMSTEAD</div>",
+          "title": "CONTACT<div>HAMPSTEAD</div>",
           "text": "We are open 7 days a week, from 12:00AM - 11:30PM, so call or email us to book your table.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"tel:+44-070-7482-1029\" data-toolbar=\"-mbrBtnMove\">020 7482 1029</a>",
           "_tags": [
@@ -337,7 +337,7 @@
               "font-size": "12px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1546,7 +1546,7 @@
               "font-size": "12px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1771,7 +1771,7 @@
               "font-size": "12px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1.2em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
