@@ -127,17 +127,17 @@
 }
 #dropdown-menu-2btn-2l .nav .link,
 #dropdown-menu-2btn-2l .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #ffffff;
 }
 #dropdown-menu-2btn-2l .navbar,
 #dropdown-menu-2btn-2l .dropdown-menu {
-  background: #2c2c2c;
+  background: #333333;
 }
 #dropdown-menu-2btn-2l .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-2l .dropdown-menu a:hover,
 #dropdown-menu-2btn-2l .dropdown-menu a:focus {
-  background: #222222;
+  background: #292929;
 }
 #dropdown-menu-2btn-2l .navbar-toggler {
   color: #ffffff;
